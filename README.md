@@ -27,8 +27,8 @@ project-root/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/propmarker-validation.git
-   cd propmarker-validation
+   git clone https://github.com/AlenKJ01/propmarker-validation-tool.git
+   cd propmarker-validation-tool
    ```
 
 2. Install dependencies:
