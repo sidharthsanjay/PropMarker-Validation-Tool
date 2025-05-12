@@ -53,6 +53,3 @@ project-root/
 
 ---
 
-## License
-
-MIT License
