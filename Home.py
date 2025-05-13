@@ -7,7 +7,6 @@ from datetime import datetime
 
 st.set_page_config(layout="wide")
 
-# ---------- CACHING MONGODB CONNECTION ----------
 @st.cache_resource
 def get_mongo_client():
     return MongoClient("mongodb://localhost:27017/")
