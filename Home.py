@@ -15,7 +15,7 @@ def get_mongo_client():
 client=get_mongo_client()
 db=client["mydatabase"]
 collection=db["property_data"]
-log_collection=db["update_logs"]  # New collection for logs
+log_collection=db["update_logs"]  
 
 # ---------- STREAMLIT SETUP ----------
 colA, colB = st.columns([1, 8])
